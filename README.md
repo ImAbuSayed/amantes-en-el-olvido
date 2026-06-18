@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-en-el-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Amantes en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-en-el-olvido/) |
+| **Get License** | [Official Music Licensing for Amantes en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-en-el-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche las luces no me dejan mentir
+> Tu mirada me llama, ya no puedo fingir
+> En medio del club yo te quiero sentir
+> Tú eres la única reina que me hace vivir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
