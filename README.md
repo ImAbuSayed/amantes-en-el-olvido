@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-en-el-olvido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Amantes en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-en-el-olvido/) |
+| **Get License** | [Get License For Amantes en el olvido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-en-el-olvido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `40b65ac9481976bc4f944a06493e658771a264dc3b46e8a36ce898921a680758` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
